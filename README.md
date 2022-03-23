@@ -29,3 +29,6 @@ A player moves and jumps using keyboard actions.
 2. Windows
   - Download the windows build file.
   - Run the .exe file and enjoy!
+
+3. Online
+  - Find it as this link: https://raneemwael.itch.io/simplified-apex-legends
